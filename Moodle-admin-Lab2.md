@@ -164,10 +164,10 @@ Site administration > Courses > Manage courses and categories
     └── ชั้น ม.6 (ID: AY2568-S1-M6)
 
 **บันทึกรูปหน้า Category:** 
-
+```
  <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/de485c58-c14f-42b2-900c-f8060b9bf72b" />
 
-
+```
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
 
